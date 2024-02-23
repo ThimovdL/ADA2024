@@ -1,6 +1,6 @@
 {
   "project_id": "ada2023-413311",
   "data_bucket": "adadata2",
-  "trainset_filename": "pima-indians-diabetes_train.csv",
+  "trainset_filename": "training_set.csv",
   "model_repo": "adamodels2"
 }
